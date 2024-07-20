@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e34ccd50102e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/1.3 Hello, Cargo!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eda53d9c69ec200c",
@@ -147,21 +160,22 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "847c64b6f64e771a",
+  "active": "d4543252d18fcf11",
   "lastOpenFiles": [
     "Notes/1.3 Hello, Cargo!.md",
     "Notes/1.2 Hello, World!.md",
-    "Projects/hello_world/main.rs",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-32de73p5jub5c889q7svx7wce/work-products.bin",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-32de73p5jub5c889q7svx7wce/query-cache.bin",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-32de73p5jub5c889q7svx7wce/dep-graph.bin",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-32de73p5jub5c889q7svx7wce",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-working/work-products.bin",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-working/query-cache.bin",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-working/dep-graph.bin",
+    "Projects/hello_cargo/target/debug/deps/libhello_cargo-0cb112254b161a1a.rmeta",
+    "Projects/hello_cargo/target/debug/deps/hello_cargo-0cb112254b161a1a.d",
+    "Projects/hello_cargo/target/debug/incremental/hello_cargo-1kunus1fpw2bb/s-gy7bbheg1m-10awcwq-working/dep-graph.part.bin",
+    "Projects/hello_world.md",
     "README.md",
-    "Untitled.canvas",
-    "Projects/hello_world/main.pdb",
-    "Projects/hello_world/main.exe",
-    "Projects/hello_world",
-    "Projects",
-    "projects/hello_world/main.rs",
-    "projects/hello_world/main.pdb",
-    "projects/hello_world/main.exe",
-    "projects/hello_world",
-    "projects"
+    "Untitled.canvas"
   ]
 }
