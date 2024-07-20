@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "8cdf1c205edc5e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe0cf9f23eccf38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4543252d18fcf11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/1.2 Hello, World!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "222fe36a3fb2bde2",
+    "type": "split",
+    "children": [
+      {
+        "id": "46edec008cfc77d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847c64b6f64e771a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c54296df2678ec4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3feafafc700fd241",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda53d9c69ec200c",
+    "type": "split",
+    "children": [
+      {
+        "id": "abeae174d64825b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e253ccd3ff4f1a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/1.2 Hello, World!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcc67f6944dd2142",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/1.2 Hello, World!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "546cbfbe208f0c6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df83f419a430268e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/1.2 Hello, World!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "847c64b6f64e771a",
+  "lastOpenFiles": [
+    "Notes/1.3 Hello, Cargo!.md",
+    "Notes/1.2 Hello, World!.md",
+    "Projects/hello_world/main.rs",
+    "README.md",
+    "Untitled.canvas",
+    "Projects/hello_world/main.pdb",
+    "Projects/hello_world/main.exe",
+    "Projects/hello_world",
+    "Projects",
+    "projects/hello_world/main.rs",
+    "projects/hello_world/main.pdb",
+    "projects/hello_world/main.exe",
+    "projects/hello_world",
+    "projects"
+  ]
+}
