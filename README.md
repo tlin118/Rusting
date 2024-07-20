@@ -2,4 +2,4 @@
 
 Projects and notes from https://doc.rust-lang.org/book/
 
-Notes written with [Obsidian](http://obsidian.md/)
+Notes written in [Obsidian](http://obsidian.md/)
